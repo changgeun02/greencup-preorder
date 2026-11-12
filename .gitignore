@@ -1,0 +1,3 @@
+# 공개하지 않는 내부 자료
+*.xlsx
+Claude outputs/
